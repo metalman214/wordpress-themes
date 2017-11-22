@@ -1,0 +1,191 @@
+/*
+ Theme Name:   Sydney Child
+ Theme URI:    http://example.com/sydney-child/
+ Description:  Sydney Child Theme
+ Author:       Carlo Jamora
+ Author URI:   http://example.com
+ Template:     sydney
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  sydney-child
+*/
+
+body{
+
+background-color: rgb(34, 34, 34);
+
+}
+.container {
+    padding-top: 20px;
+    width: 1348px;
+}
+
+.single .entry-header, .page .entry-header {
+    margin-bottom: 90px;
+   
+}
+
+
+.page .page-wrap .content-wrapper, .single .page-wrap .content-wrapper {
+  
+    background-color: rgb(255, 255, 255);
+    padding-top: 1px;
+    margin-top: -84px;
+    margin-left: 1px;
+}
+
+
+
+.hentry .title-post {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: normal;
+    padding-bottom: 10px;
+    margin: 0;
+    text-align: left;
+    background-color: #0a7992 ;
+    width: 600px;
+    padding: 0.3em;
+    border-top-right-radius: 24px;
+    color: white;
+    margin-left: -15px;
+    
+}
+
+.alignleft {
+
+    position: inline;
+	float: left;
+    
+}
+
+.text{
+
+    color: white;
+    background-color: #0a7992;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+.box1{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2.2), 0 6px 120px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.box2{
+    
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2.2), 0 6px 120px 0 rgba(0, 0, 0, 0.19);
+    
+    
+    }
+        
+.box3{
+        
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2.2), 0 6px 120px 0 rgba(0, 0, 0, 0.19);
+        
+        
+}
+.pic1{
+
+    margin-left: -15px;
+    margin-top: -90px;
+    position: relative;
+
+}      
+
+.pic2{
+    
+        margin-left: 902px;
+        margin-top: -270px;
+        position: absolute;   
+      
+    
+}      
+            
+.centerbox{
+    
+    width: 590px;
+    height:270px;
+    margin-left: 375px;
+    margin-top: -270px;
+    background-color: rgb(29, 28, 28);
+    position: relative;
+    color: white;
+    text-align: center;
+    
+}
+    
+
+ .content-area .hentry {
+		position: static;
+		padding-top: 50px;
+		padding-bottom: 20px;
+}
+    
+.innercont{
+
+    width: 1348px;
+    height:390px;
+    margin-left: -15px;
+    margin-top: -1px;
+    background-color: #f5a84e;
+    position: relative;
+    color: white;
+    text-align: center;
+ 
+
+}
+.icons{
+
+margin-left: 350px;
+
+}
+.benefits{
+
+    width: 860px; height: 0;
+    border-top: 300px solid #f5a84e;
+    border-right: 200px solid transparent; 
+    margin-left: -15px;
+    margin-top: -30px;
+
+
+
+}
+.samp1{
+
+margin-top: -200px;
+margin-left: 240px;
+
+}
+.samp2{
+    
+    margin-top: -200px;
+    margin-left: 240px;
+    
+    
+    
+    
+}
+.samp3{
+        
+        margin-top: -200px;
+        margin-left: 240px;
+           
+        
+}
+.samp4{
+            
+         margin-top: -200px;
+         margin-left: 240px;
+ 
+}
+.samp5{
+                
+         margin-top: -200px;
+        margin-left: 240px;
+           
+                
+}
